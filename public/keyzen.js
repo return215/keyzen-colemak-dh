@@ -1,5 +1,5 @@
 var data = {};
-data.chars = " ntesiroamglpufywqjbhvdcxkz" 
+data.chars = " ntesiroamglpufywqjbhvdcxkz1234567890'\",.!?:;/@$%&#*()_NTESIROAMGLPUFYWQJBHVDCXKZ~+-={}|^<>`[]\\" 
 data.consecutive = 10;
 data.word_length = 7;
 
